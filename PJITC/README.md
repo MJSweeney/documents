@@ -55,6 +55,9 @@ Located in Kihei, HI, the Pacific JITC’s Integrated Test and Evaluation Center
 
 The ITEC provides the infrastructure to support projects focused on piloting, prototyping, and proof of concept to refine requirements. This allows the customer to focus efforts on the applications rather than the necessary IT infrastructure/environment. Providing a rapidly deployable, least constrictive, yet secure, environment, the ITEC is capable of being the compute resource for both short- and long-term projects.
 
+#### Secure Computing Environments
+The ITEC has both Commercial and NIPRnet networks.  The Commerical network is used for projects that do not contain sensitive or Personal Identifying Information or Personal Health Information (PII/PHI) data.  The NIPRnet enclave is utilized for projects which have a higher sensitivity, need greater security or contain PII/PHI data.  The ITEC's NIPRnet enclave is a highly controlled, secured boundary and part of the .mil domain.
+
 ![](/images/pjitc/itec_3.png)
 
 
